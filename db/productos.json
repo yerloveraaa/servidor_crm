@@ -1,0 +1,8 @@
+{"_id":{"$oid":"6133b56c1e0cc686ee005983"},"nombre":"t-shirt js","imagen":"md6yDOu8l.jpeg","__v":0,"precio":45}
+{"_id":{"$oid":"6133b5c21e0cc686ee005985"},"nombre":"t-shirt Vue","imagen":"Z9sjfzxoF.jpeg","__v":0,"precio":23}
+{"_id":{"$oid":"6133b5de1e0cc686ee005987"},"nombre":"t-shirt github","imagen":"84z8rIQPa.jpeg","__v":0,"precio":12}
+{"_id":{"$oid":"6133b6051e0cc686ee005989"},"nombre":"Camisa React js","imagen":"BajQUazzR.jpeg","__v":0,"precio":21}
+{"_id":{"$oid":"6133b6241e0cc686ee00598b"},"nombre":"Camisa html","imagen":"HDQopYeKE.jpeg","__v":0,"precio":21}
+{"_id":{"$oid":"6133b6421e0cc686ee00598d"},"nombre":"Camisa angular js","imagen":"Y1MJGttXS.jpeg","__v":0,"precio":12}
+{"_id":{"$oid":"6133b65a1e0cc686ee00598f"},"nombre":"Camisa Saas","imagen":"fnkJZgdla.jpeg","__v":0,"precio":11}
+{"_id":{"$oid":"61358880f23d1cf47fb3763f"},"nombre":"camisa AC","precio":39,"imagen":"OnExnisDL.jpeg","__v":0}
