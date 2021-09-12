@@ -23,6 +23,9 @@ const app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 
+// carpeta publica
+app.use(express.static('uploads'));
+
 const whitelist = [process.env.FRONTEND_URL];
 
 const corsOptions = {
@@ -45,8 +48,7 @@ app.use(cors(corsOptions));
 // Rutas de la app
 app.use('/', routes());
 
-// carpeta publica
-app.use(express.static('uploads'));
+
 
 const host  = process.env.HOST || '0.0.0.0';
 const port = process.env.PORT || 5000;
